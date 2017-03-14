@@ -1,0 +1,6 @@
+D:\Projekty C#\cw2zad3\cw2zad3\bin\Debug\cw2zad3.exe.config
+D:\Projekty C#\cw2zad3\cw2zad3\bin\Debug\cw2zad3.exe
+D:\Projekty C#\cw2zad3\cw2zad3\bin\Debug\cw2zad3.pdb
+D:\Projekty C#\cw2zad3\cw2zad3\obj\Debug\cw2zad3.csprojResolveAssemblyReference.cache
+D:\Projekty C#\cw2zad3\cw2zad3\obj\Debug\cw2zad3.exe
+D:\Projekty C#\cw2zad3\cw2zad3\obj\Debug\cw2zad3.pdb
