@@ -1,0 +1,7 @@
+c:\users\local\documents\visual studio 2013\Projects\cw2zad2\cw2zad2\bin\Debug\cw2zad2.exe.config
+D:\Projekty C#\cw2zad2\cw2zad2\bin\Debug\cw2zad2.exe.config
+D:\Projekty C#\cw2zad2\cw2zad2\bin\Debug\cw2zad2.exe
+D:\Projekty C#\cw2zad2\cw2zad2\bin\Debug\cw2zad2.pdb
+D:\Projekty C#\cw2zad2\cw2zad2\obj\Debug\cw2zad2.csprojResolveAssemblyReference.cache
+D:\Projekty C#\cw2zad2\cw2zad2\obj\Debug\cw2zad2.exe
+D:\Projekty C#\cw2zad2\cw2zad2\obj\Debug\cw2zad2.pdb
